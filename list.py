@@ -64,7 +64,6 @@ elif select == 9:
     list.clear()
     print("The cleared list is :",list)
 
-
 else:
     print("The selected option is not present.Do try the other option's!!!")
 

@@ -31,4 +31,4 @@ elif select ==3:
 else:
     print("The selected option is not present.Do try the other option's!!!")
 
-print("You can implement different method's too :) \n Love you Rajesh!!!")
+print("You can implement different method's too :)")
